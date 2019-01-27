@@ -1,0 +1,4712 @@
+{
+  "location": {
+    "en": "Taipei",
+    "zh": "台北"
+  },
+  "size": {
+    "width": 800,
+    "height": 900
+  },
+  "stations": [
+    {
+      "name": {
+        "en": "Xindian",
+        "zh": "新店",
+        "pos": {
+          "x": 462,
+          "y": 878,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 878
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "新店"
+    },
+    {
+      "name": {
+        "en": "Zhongxiao Dunhua",
+        "zh": "忠孝敦化",
+        "pos": {
+          "x": 530,
+          "y": 542,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 530,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "忠孝敦化"
+    },
+    {
+      "name": {
+        "en": "Xiaonanmen",
+        "zh": "小南門",
+        "pos": {
+          "x": 326,
+          "y": 593,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 340,
+        "y": 586
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "小南門"
+    },
+    {
+      "name": {
+        "en": "Nanshijiao",
+        "zh": "南勢角",
+        "pos": {
+          "x": 330,
+          "y": 809,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 344,
+        "y": 809
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "南勢角"
+    },
+    {
+      "name": {
+        "en": "Tapiei Zoo",
+        "zh": "動物園",
+        "pos": {
+          "x": 665,
+          "y": 730,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 665,
+        "y": 713
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "動物園"
+    },
+    {
+      "name": {
+        "en": "Jingan",
+        "zh": "景安",
+        "pos": {
+          "x": 330,
+          "y": 775,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 344,
+        "y": 775
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "景安"
+    },
+    {
+      "name": {
+        "en": "Songjiang Nanjing",
+        "zh": "松江南京",
+        "pos": {
+          "x": 430,
+          "y": 477,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 440,
+        "y": 464
+      },
+      "lines": [
+        "G",
+        "O"
+      ],
+      "label": "松江南京"
+    },
+    {
+      "name": {
+        "en": "Yongchun",
+        "zh": "永春",
+        "pos": {
+          "x": 612,
+          "y": 508,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 612,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "永春"
+    },
+    {
+      "name": {
+        "en": "Xianse Temple",
+        "zh": "先嗇宮",
+        "pos": {
+          "x": 171,
+          "y": 489,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 184,
+        "y": 489
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "先嗇宮"
+    },
+    {
+      "name": {
+        "en": "Sanchong Elementary School",
+        "zh": "三重國小",
+        "pos": {
+          "x": 240,
+          "y": 384,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 253,
+        "y": 384
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "三重國小"
+    },
+    {
+      "name": {
+        "en": "St. Lgnatius High School",
+        "zh": "徐匯中學",
+        "pos": {
+          "x": 196,
+          "y": 340,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 209,
+        "y": 340
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "徐匯中學"
+    },
+    {
+      "name": {
+        "en": "Jiangzicui",
+        "zh": "江子翠",
+        "pos": {
+          "x": 248,
+          "y": 612,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 262,
+        "y": 612
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "江子翠"
+    },
+    {
+      "name": {
+        "en": "Qizhang",
+        "zh": "七張",
+        "pos": {
+          "x": 489,
+          "y": 809,
+          "anchor": "start"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 809
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "七張"
+    },
+    {
+      "name": {
+        "en": "Fu Jen University",
+        "zh": "輔大",
+        "pos": {
+          "x": 102,
+          "y": 558,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 116,
+        "y": 558
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "輔大"
+    },
+    {
+      "name": {
+        "en": "Taipei Bridge",
+        "zh": "台北橋",
+        "pos": {
+          "x": 240,
+          "y": 420,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 253,
+        "y": 420
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "台北橋"
+    },
+    {
+      "name": {
+        "en": "Dongmen",
+        "zh": "東門",
+        "pos": {
+          "x": 427,
+          "y": 576,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 440,
+        "y": 586
+      },
+      "lines": [
+        "R",
+        "O"
+      ],
+      "label": "東門"
+    },
+    {
+      "name": {
+        "en": "Donghu",
+        "zh": "東湖",
+        "pos": {
+          "x": 685,
+          "y": 412,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 698,
+        "y": 412
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "東湖"
+    },
+    {
+      "name": {
+        "en": "Sun Yat-Sen Memorial Hall",
+        "zh": "國父紀念館",
+        "pos": {
+          "x": 557,
+          "y": 508,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 557,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "國父紀念館"
+    },
+    {
+      "name": {
+        "en": "Huilong",
+        "zh": "迴龍",
+        "pos": {
+          "x": 57,
+          "y": 604,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 70,
+        "y": 604
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "迴龍"
+    },
+    {
+      "name": {
+        "en": "Hongshulin",
+        "zh": "紅樹林",
+        "pos": {
+          "x": 167,
+          "y": 40,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 180,
+        "y": 40
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "紅樹林"
+    },
+    {
+      "name": {
+        "en": "Qilian",
+        "zh": "唭哩岸",
+        "pos": {
+          "x": 330,
+          "y": 202,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 343,
+        "y": 202
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "唭哩岸"
+    },
+    {
+      "name": {
+        "en": "Yongan Market",
+        "zh": "永安市場",
+        "pos": {
+          "x": 330,
+          "y": 740,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 344,
+        "y": 740
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "永安市場"
+    },
+    {
+      "name": {
+        "en": "Nangang Software Park",
+        "zh": "南港軟體園區",
+        "pos": {
+          "x": 685,
+          "y": 446,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 698,
+        "y": 446
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "南港軟體園區"
+    },
+    {
+      "name": {
+        "en": "Sanhe Junior High School",
+        "zh": "三和國中",
+        "pos": {
+          "x": 218,
+          "y": 362,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 232,
+        "y": 362
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "三和國中"
+    },
+    {
+      "name": {
+        "en": "Taipei City Hall",
+        "zh": "市政府",
+        "pos": {
+          "x": 584,
+          "y": 542,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 584,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "市政府"
+    },
+    {
+      "name": {
+        "en": "Dingxi",
+        "zh": "頂溪",
+        "pos": {
+          "x": 330,
+          "y": 706,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 344,
+        "y": 706
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "頂溪"
+    },
+    {
+      "name": {
+        "en": "Dapinglin",
+        "zh": "大坪林",
+        "pos": {
+          "x": 462,
+          "y": 775,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 775
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "大坪林"
+    },
+    {
+      "name": {
+        "en": "Shandao Temple",
+        "zh": "善導寺",
+        "pos": {
+          "x": 409,
+          "y": 508,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 409,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "善導寺"
+    },
+    {
+      "name": {
+        "en": "Songshan",
+        "zh": "松山",
+        "pos": {
+          "x": 625,
+          "y": 450,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 635,
+        "y": 464
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "松山"
+    },
+    {
+      "name": {
+        "en": "Jingmei",
+        "zh": "景美",
+        "pos": {
+          "x": 462,
+          "y": 740,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 740
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "景美"
+    },
+    {
+      "name": {
+        "en": "Zhongyi",
+        "zh": "忠義",
+        "pos": {
+          "x": 237,
+          "y": 109,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 250,
+        "y": 109
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "忠義"
+    },
+    {
+      "name": {
+        "en": "Houshanpi",
+        "zh": "後山埤",
+        "pos": {
+          "x": 638,
+          "y": 542,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 638,
+        "y": 525
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "後山埤"
+    },
+    {
+      "name": {
+        "en": "Xinpu",
+        "zh": "新埔",
+        "pos": {
+          "x": 220,
+          "y": 640,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 234,
+        "y": 640
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "新埔"
+    },
+    {
+      "name": {
+        "en": "Nangan",
+        "zh": "南港",
+        "pos": {
+          "x": 685,
+          "y": 513,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 680,
+        "y": 498
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "南港"
+    },
+    {
+      "name": {
+        "en": "Dingpu",
+        "zh": "頂埔",
+        "pos": {
+          "x": 178,
+          "y": 878,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 878
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "頂埔"
+    },
+    {
+      "name": {
+        "en": "Daqiaotou",
+        "zh": "大橋頭",
+        "pos": {
+          "x": 318,
+          "y": 386,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 318,
+        "y": 402
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "大橋頭"
+    },
+    {
+      "name": {
+        "en": "Longshan Temple",
+        "zh": "龍山寺",
+        "pos": {
+          "x": 276,
+          "y": 584,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 290,
+        "y": 584
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "龍山寺"
+    },
+    {
+      "name": {
+        "en": "Wanlong",
+        "zh": "萬隆",
+        "pos": {
+          "x": 462,
+          "y": 706,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 706
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "萬隆"
+    },
+    {
+      "name": {
+        "en": "Taipei Arena",
+        "zh": "台北小巨蛋",
+        "pos": {
+          "x": 546,
+          "y": 447,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 546,
+        "y": 464
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "台北小巨蛋"
+    },
+    {
+      "name": {
+        "en": "Fuxinggang",
+        "zh": "復興崗",
+        "pos": {
+          "x": 260,
+          "y": 132,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 274,
+        "y": 132
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "復興崗"
+    },
+    {
+      "name": {
+        "en": "Technology Building",
+        "zh": "科技大樓",
+        "pos": {
+          "x": 490,
+          "y": 618,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 618
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "科技大樓"
+    },
+    {
+      "name": {
+        "en": "Nanjing Sanmin",
+        "zh": "南京三民",
+        "pos": {
+          "x": 590,
+          "y": 480,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 590,
+        "y": 464
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "南京三民"
+    },
+    {
+      "name": {
+        "en": "Cailiao",
+        "zh": "菜寮",
+        "pos": {
+          "x": 217,
+          "y": 444,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 230,
+        "y": 444
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "菜寮"
+    },
+    {
+      "name": {
+        "en": "Xinzhuang",
+        "zh": "新莊",
+        "pos": {
+          "x": 126,
+          "y": 535,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 139,
+        "y": 535
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "新莊"
+    },
+    {
+      "name": {
+        "en": "Dahu Park",
+        "zh": "大湖公園",
+        "pos": {
+          "x": 670,
+          "y": 346,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 683,
+        "y": 343
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "大湖公園"
+    },
+    {
+      "name": {
+        "en": "Wende",
+        "zh": "文德",
+        "pos": {
+          "x": 617,
+          "y": 311,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 617,
+        "y": 328
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "文德"
+    },
+    {
+      "name": {
+        "en": "Xindian District Office",
+        "zh": "新店區公所",
+        "pos": {
+          "x": 462,
+          "y": 843,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 476,
+        "y": 843
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "新店區公所"
+    },
+    {
+      "name": {
+        "en": "Daan",
+        "zh": "大安",
+        "pos": {
+          "x": 513,
+          "y": 600,
+          "anchor": "start"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 586
+      },
+      "lines": [
+        "BR",
+        "R"
+      ],
+      "label": "大安"
+    },
+    {
+      "name": {
+        "en": "Touqianzhuang",
+        "zh": "頭前庄",
+        "pos": {
+          "x": 148,
+          "y": 512,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 162,
+        "y": 512
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "頭前庄"
+    },
+    {
+      "name": {
+        "en": "Beimen",
+        "zh": "北門",
+        "pos": {
+          "x": 303,
+          "y": 495,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 316,
+        "y": 495
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "北門"
+    },
+    {
+      "name": {
+        "en": "Taipower Building",
+        "zh": "台電大樓",
+        "pos": {
+          "x": 420,
+          "y": 648,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 433,
+        "y": 642
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "台電大樓"
+    },
+    {
+      "name": {
+        "en": "Xihu",
+        "zh": "西湖",
+        "pos": {
+          "x": 562,
+          "y": 311,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 562,
+        "y": 328
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "西湖"
+    },
+    {
+      "name": {
+        "en": "Neihu",
+        "zh": "內湖",
+        "pos": {
+          "x": 645,
+          "y": 311,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 645,
+        "y": 328
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "內湖"
+    },
+    {
+      "name": {
+        "en": "Xinhai",
+        "zh": "辛亥",
+        "pos": {
+          "x": 559,
+          "y": 666,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 572,
+        "y": 666
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "辛亥"
+    },
+    {
+      "name": {
+        "en": "Jiannan Rd.",
+        "zh": "劍南路",
+        "pos": {
+          "x": 534,
+          "y": 311,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 534,
+        "y": 328
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "劍南路"
+    },
+    {
+      "name": {
+        "en": "Gangqian",
+        "zh": "港墘",
+        "pos": {
+          "x": 590,
+          "y": 311,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 590,
+        "y": 328
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "港墘"
+    },
+    {
+      "name": {
+        "en": "Xinbeitou",
+        "zh": "新北投",
+        "pos": {
+          "x": 334,
+          "y": 132,
+          "anchor": "start"
+        }
+      },
+      "center": {
+        "x": 320,
+        "y": 132
+      },
+      "lines": [
+        "RA"
+      ],
+      "label": "新北投"
+    },
+    {
+      "name": {
+        "en": "Yuanshan",
+        "zh": "圓山",
+        "pos": {
+          "x": 365,
+          "y": 373,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 373
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "圓山"
+    },
+    {
+      "name": {
+        "en": "Tamsui",
+        "zh": "淡水",
+        "pos": {
+          "x": 144,
+          "y": 16,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 158,
+        "y": 16
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "淡水"
+    },
+    {
+      "name": {
+        "en": "Tucheng",
+        "zh": "土城",
+        "pos": {
+          "x": 178,
+          "y": 809,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 809
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "土城"
+    },
+    {
+      "name": {
+        "en": "Zhongshan Elementary School",
+        "zh": "中山國小",
+        "pos": {
+          "x": 409,
+          "y": 386,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 409,
+        "y": 402
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "中山國小"
+    },
+    {
+      "name": {
+        "en": "Zhongshan Junior High School",
+        "zh": "中山國中",
+        "pos": {
+          "x": 490,
+          "y": 430,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 430
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "中山國中"
+    },
+    {
+      "name": {
+        "en": "Haishan",
+        "zh": "海山",
+        "pos": {
+          "x": 178,
+          "y": 775,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 775
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "海山"
+    },
+    {
+      "name": {
+        "en": "Xinyi Anhe",
+        "zh": "信義安和",
+        "pos": {
+          "x": 538,
+          "y": 570,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 538,
+        "y": 586
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "信義安和"
+    },
+    {
+      "name": {
+        "en": "Zhishan",
+        "zh": "芝山",
+        "pos": {
+          "x": 365,
+          "y": 284,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 284
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "芝山"
+    },
+    {
+      "name": {
+        "en": "Shilin",
+        "zh": "士林",
+        "pos": {
+          "x": 365,
+          "y": 314,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 314
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "士林"
+    },
+    {
+      "name": {
+        "en": "Xingtian Temple",
+        "zh": "行天宮",
+        "pos": {
+          "x": 427,
+          "y": 434,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 440,
+        "y": 434
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "行天宮"
+    },
+    {
+      "name": {
+        "en": "Qiyan",
+        "zh": "奇岩",
+        "pos": {
+          "x": 306,
+          "y": 179,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 320,
+        "y": 179
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "奇岩"
+    },
+    {
+      "name": {
+        "en": "Guandu",
+        "zh": "關渡",
+        "pos": {
+          "x": 214,
+          "y": 86,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 227,
+        "y": 86
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "關渡"
+    },
+    {
+      "name": {
+        "en": "Shuanglian",
+        "zh": "雙連",
+        "pos": {
+          "x": 365,
+          "y": 434,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 434
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "雙連"
+    },
+    {
+      "name": {
+        "en": "Sanmin Senior High School",
+        "zh": "三民高中",
+        "pos": {
+          "x": 174,
+          "y": 318,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 187,
+        "y": 318
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "三民高中"
+    },
+    {
+      "name": {
+        "en": "Zhuwei",
+        "zh": "竹圍",
+        "pos": {
+          "x": 190,
+          "y": 62,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 204,
+        "y": 62
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "竹圍"
+    },
+    {
+      "name": {
+        "en": "Shipai",
+        "zh": "石牌",
+        "pos": {
+          "x": 353,
+          "y": 226,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 366,
+        "y": 226
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "石牌"
+    },
+    {
+      "name": {
+        "en": "Dazhi",
+        "zh": "大直",
+        "pos": {
+          "x": 490,
+          "y": 362,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 362
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "大直"
+    },
+    {
+      "name": {
+        "en": "Songshan Airport",
+        "zh": "松山機場",
+        "pos": {
+          "x": 490,
+          "y": 396,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 396
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "松山機場"
+    },
+    {
+      "name": {
+        "en": "Muzha",
+        "zh": "木柵",
+        "pos": {
+          "x": 631,
+          "y": 730,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 631,
+        "y": 713
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "木柵"
+    },
+    {
+      "name": {
+        "en": "Danfeng",
+        "zh": "丹鳳",
+        "pos": {
+          "x": 80,
+          "y": 581,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 93,
+        "y": 581
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "丹鳳"
+    },
+    {
+      "name": {
+        "en": "Taipei Nangang Exhibition Center",
+        "zh": "南港展覽館",
+        "pos": {
+          "x": 685,
+          "y": 475,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 698,
+        "y": 475
+      },
+      "lines": [
+        "BL",
+        "BR"
+      ],
+      "label": "南港展覽館"
+    },
+    {
+      "name": {
+        "en": "Guting",
+        "zh": "古亭",
+        "pos": {
+          "x": 396,
+          "y": 618,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 410,
+        "y": 618
+      },
+      "lines": [
+        "O",
+        "G"
+      ],
+      "label": "古亭"
+    },
+    {
+      "name": {
+        "en": "Jiantan",
+        "zh": "劍潭",
+        "pos": {
+          "x": 364,
+          "y": 343,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 343
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "劍潭"
+    },
+    {
+      "name": {
+        "en": "Hunyang",
+        "zh": "昆陽",
+        "pos": {
+          "x": 663,
+          "y": 530,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 663,
+        "y": 515
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "昆陽"
+    },
+    {
+      "name": {
+        "en": "Xiangshan",
+        "zh": "象山",
+        "pos": {
+          "x": 606,
+          "y": 570,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 606,
+        "y": 586
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "象山"
+    },
+    {
+      "name": {
+        "en": "Mingde",
+        "zh": "明德",
+        "pos": {
+          "x": 364,
+          "y": 255,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 255
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "明德"
+    },
+    {
+      "name": {
+        "en": "Far Eastern Hospital",
+        "zh": "亞東醫院",
+        "pos": {
+          "x": 178,
+          "y": 740,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 740
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "亞東醫院"
+    },
+    {
+      "name": {
+        "en": "Yongning",
+        "zh": "永寧",
+        "pos": {
+          "x": 178,
+          "y": 844,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 844
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "永寧"
+    },
+    {
+      "name": {
+        "en": "NTU Hospital",
+        "zh": "台大醫院",
+        "pos": {
+          "x": 365,
+          "y": 556,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 556
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "台大醫院"
+    },
+    {
+      "name": {
+        "en": "Sanchong",
+        "zh": "三重",
+        "pos": {
+          "x": 194,
+          "y": 466,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 208,
+        "y": 466
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "三重"
+    },
+    {
+      "name": {
+        "en": "Fuzhong",
+        "zh": "府中",
+        "pos": {
+          "x": 178,
+          "y": 706,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 192,
+        "y": 706
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "府中"
+    },
+    {
+      "name": {
+        "en": "Xiaobitan",
+        "zh": "小碧潭",
+        "pos": {
+          "x": 430,
+          "y": 809,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 443,
+        "y": 809
+      },
+      "lines": [
+        "GA"
+      ],
+      "label": "小碧潭"
+    },
+    {
+      "name": {
+        "en": "Wanfang Hospital",
+        "zh": "萬芳醫院",
+        "pos": {
+          "x": 558,
+          "y": 692,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 572,
+        "y": 692
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "萬芳醫院"
+    },
+    {
+      "name": {
+        "en": "Liuzhangli",
+        "zh": "六張犁",
+        "pos": {
+          "x": 507,
+          "y": 651,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 520,
+        "y": 644
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "六張犁"
+    },
+    {
+      "name": {
+        "en": "Linguang",
+        "zh": "麟光",
+        "pos": {
+          "x": 554,
+          "y": 628,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 554,
+        "y": 644
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "麟光"
+    },
+    {
+      "name": {
+        "en": "Wanfang Community",
+        "zh": "萬芳社區",
+        "pos": {
+          "x": 597,
+          "y": 730,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 597,
+        "y": 713
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "萬芳社區"
+    },
+    {
+      "name": {
+        "en": "Huzhou",
+        "zh": "葫洲",
+        "pos": {
+          "x": 685,
+          "y": 378,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 698,
+        "y": 378
+      },
+      "lines": [
+        "BR"
+      ],
+      "label": "葫洲"
+    },
+    {
+      "name": {
+        "en": "Daan Park",
+        "zh": "大安森林公園",
+        "pos": {
+          "x": 472,
+          "y": 570,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 472,
+        "y": 586
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "大安森林公園"
+    },
+    {
+      "name": {
+        "en": "Taipei 101/World Trade Center",
+        "zh": "台北101/世貿",
+        "pos": {
+          "x": 572,
+          "y": 603,
+          "anchor": "middle"
+        }
+      },
+      "center": {
+        "x": 572,
+        "y": 586
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "台北101/世貿"
+    },
+    {
+      "name": {
+        "en": "Banqiao",
+        "zh": "板橋",
+        "pos": {
+          "x": 192,
+          "y": 668,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 206,
+        "y": 668
+      },
+      "lines": [
+        "BL"
+      ],
+      "label": "板橋"
+    },
+    {
+      "name": {
+        "en": "Gongguan",
+        "zh": "公館",
+        "pos": {
+          "x": 447,
+          "y": 668,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 460,
+        "y": 668
+      },
+      "lines": [
+        "G"
+      ],
+      "label": "公館"
+    },
+    {
+      "name": {
+        "en": "Beitou",
+        "zh": "北投",
+        "pos": {
+          "x": 284,
+          "y": 156,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 297,
+        "y": 156
+      },
+      "lines": [
+        "R"
+      ],
+      "label": "北投"
+    },
+    {
+      "name": {
+        "en": "Zhongxiao Xinsheng",
+        "zh": "忠孝新生",
+        "pos": {
+          "x": 447,
+          "y": 508,
+          "anchor": "start"
+        }
+      },
+      "center": {
+        "x": 440,
+        "y": 525
+      },
+      "lines": [
+        "BL",
+        "O"
+      ],
+      "label": "忠孝新生"
+    },
+    {
+      "name": {
+        "en": "Taipei Main Station",
+        "zh": "台北車站",
+        "pos": {
+          "x": 364,
+          "y": 515,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 525
+      },
+      "lines": [
+        "BL",
+        "R"
+      ],
+      "label": "台北車站"
+    },
+    {
+      "name": {
+        "en": "Luzhou",
+        "zh": "蘆洲",
+        "pos": {
+          "x": 152,
+          "y": 296,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 165,
+        "y": 296
+      },
+      "lines": [
+        "O"
+      ],
+      "label": "蘆洲"
+    },
+    {
+      "name": {
+        "en": "Zhongshan",
+        "zh": "中山",
+        "pos": {
+          "x": 365,
+          "y": 474,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 464
+      },
+      "lines": [
+        "R",
+        "G"
+      ],
+      "label": "中山"
+    },
+    {
+      "name": {
+        "en": "Nanjing Fuxing",
+        "zh": "南京復興",
+        "pos": {
+          "x": 496,
+          "y": 477,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 464
+      },
+      "lines": [
+        "G",
+        "BR"
+      ],
+      "label": "南京復興"
+    },
+    {
+      "name": {
+        "en": "Chiang Kai-Shek Memorial Hall",
+        "zh": "中正紀念堂",
+        "pos": {
+          "x": 383,
+          "y": 603,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 586
+      },
+      "lines": [
+        "G",
+        "R"
+      ],
+      "label": "中正紀念堂"
+    },
+    {
+      "name": {
+        "en": "Ximen",
+        "zh": "西門",
+        "pos": {
+          "x": 303,
+          "y": 557,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 316,
+        "y": 557
+      },
+      "lines": [
+        "BL",
+        "G"
+      ],
+      "label": "西門"
+    },
+    {
+      "name": {
+        "en": "Minquan W. Rd.",
+        "zh": "民權西路",
+        "pos": {
+          "x": 364,
+          "y": 412,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 378,
+        "y": 402
+      },
+      "lines": [
+        "O",
+        "R"
+      ],
+      "label": "民權西路"
+    },
+    {
+      "name": {
+        "en": "Zhongxiao Fuxing",
+        "zh": "忠孝復興",
+        "pos": {
+          "x": 493,
+          "y": 539,
+          "anchor": "end"
+        }
+      },
+      "center": {
+        "x": 503,
+        "y": 526
+      },
+      "lines": [
+        "BL",
+        "BR"
+      ],
+      "label": "忠孝復興"
+    }
+  ],
+  "connections": [
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            526
+          ]
+        }
+      ],
+      "from": "南京復興",
+      "to": "忠孝復興"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            430
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            464
+          ]
+        }
+      ],
+      "from": "中山國中",
+      "to": "南京復興"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            396
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            430
+          ]
+        }
+      ],
+      "from": "松山機場",
+      "to": "中山國中"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            362
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            396
+          ]
+        }
+      ],
+      "from": "大直",
+      "to": "松山機場"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            534,
+            328
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            513,
+            328
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            503,
+            328,
+            503,
+            340
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            362
+          ]
+        }
+      ],
+      "from": "劍南路",
+      "to": "大直"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            562,
+            328
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            534,
+            328
+          ]
+        }
+      ],
+      "from": "西湖",
+      "to": "劍南路"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            590,
+            328
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            562,
+            328
+          ]
+        }
+      ],
+      "from": "港墘",
+      "to": "西湖"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            617,
+            328
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            590,
+            328
+          ]
+        }
+      ],
+      "from": "文德",
+      "to": "港墘"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            645,
+            328
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            617,
+            328
+          ]
+        }
+      ],
+      "from": "內湖",
+      "to": "文德"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            683,
+            343
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            666,
+            323,
+            645,
+            328
+          ]
+        }
+      ],
+      "from": "大湖公園",
+      "to": "內湖"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            698,
+            378
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            698,
+            360,
+            683,
+            343
+          ]
+        }
+      ],
+      "from": "葫洲",
+      "to": "大湖公園"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            698,
+            412
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            698,
+            378
+          ]
+        }
+      ],
+      "from": "東湖",
+      "to": "葫洲"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            698,
+            446
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            698,
+            412
+          ]
+        }
+      ],
+      "from": "南港軟體園區",
+      "to": "東湖"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            526
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            586
+          ]
+        }
+      ],
+      "from": "忠孝復興",
+      "to": "大安"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            618
+          ]
+        }
+      ],
+      "from": "大安",
+      "to": "科技大樓"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            618
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            633
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            503,
+            644,
+            520,
+            644
+          ]
+        }
+      ],
+      "from": "科技大樓",
+      "to": "六張犁"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            520,
+            644
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            554,
+            644
+          ]
+        }
+      ],
+      "from": "六張犁",
+      "to": "麟光"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            554,
+            644
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            572,
+            644,
+            572,
+            666
+          ]
+        }
+      ],
+      "from": "麟光",
+      "to": "辛亥"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            572,
+            666
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            572,
+            692
+          ]
+        }
+      ],
+      "from": "辛亥",
+      "to": "萬芳醫院"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            572,
+            692
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            572,
+            713,
+            597,
+            713
+          ]
+        }
+      ],
+      "from": "萬芳醫院",
+      "to": "萬芳社區"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            597,
+            713
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            631,
+            713
+          ]
+        }
+      ],
+      "from": "萬芳社區",
+      "to": "木柵"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            631,
+            713
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            665,
+            713
+          ]
+        }
+      ],
+      "from": "木柵",
+      "to": "動物園"
+    },
+    {
+      "line": "BR",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            698,
+            446
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            698,
+            475
+          ]
+        }
+      ],
+      "from": "南港軟體園區",
+      "to": "南港展覽館"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            698,
+            480
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            680,
+            498
+          ]
+        }
+      ],
+      "from": "南港展覽館",
+      "to": "南港"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            680,
+            498
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            663,
+            515
+          ]
+        }
+      ],
+      "from": "南港",
+      "to": "昆陽"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            663,
+            515
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            638,
+            525
+          ]
+        }
+      ],
+      "from": "昆陽",
+      "to": "後山埤"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            638,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            612,
+            525
+          ]
+        }
+      ],
+      "from": "後山埤",
+      "to": "永春"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            612,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            584,
+            525
+          ]
+        }
+      ],
+      "from": "永春",
+      "to": "市政府"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            584,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            557,
+            525
+          ]
+        }
+      ],
+      "from": "市政府",
+      "to": "國父紀念館"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            557,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            530,
+            525
+          ]
+        }
+      ],
+      "from": "國父紀念館",
+      "to": "忠孝敦化"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            530,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            526
+          ]
+        }
+      ],
+      "from": "忠孝敦化",
+      "to": "忠孝復興"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            526
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            525
+          ]
+        }
+      ],
+      "from": "忠孝復興",
+      "to": "忠孝新生"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            409,
+            525
+          ]
+        }
+      ],
+      "from": "忠孝新生",
+      "to": "善導寺"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            409,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            525
+          ]
+        }
+      ],
+      "from": "善導寺",
+      "to": "台北車站"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            525
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            333,
+            525,
+            316,
+            557
+          ]
+        }
+      ],
+      "from": "台北車站",
+      "to": "西門"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            316,
+            557
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            290,
+            584
+          ]
+        }
+      ],
+      "from": "西門",
+      "to": "龍山寺"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            290,
+            584
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            262,
+            612
+          ]
+        }
+      ],
+      "from": "龍山寺",
+      "to": "江子翠"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            262,
+            612
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            234,
+            640
+          ]
+        }
+      ],
+      "from": "江子翠",
+      "to": "新埔"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            234,
+            640
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            206,
+            668
+          ]
+        }
+      ],
+      "from": "新埔",
+      "to": "板橋"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            206,
+            668
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            192,
+            680,
+            192,
+            706
+          ]
+        }
+      ],
+      "from": "板橋",
+      "to": "府中"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            192,
+            706
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            192,
+            740
+          ]
+        }
+      ],
+      "from": "府中",
+      "to": "亞東醫院"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            192,
+            740
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            192,
+            775
+          ]
+        }
+      ],
+      "from": "亞東醫院",
+      "to": "海山"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            192,
+            775
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            192,
+            809
+          ]
+        }
+      ],
+      "from": "海山",
+      "to": "土城"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            192,
+            809
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            192,
+            844
+          ]
+        }
+      ],
+      "from": "土城",
+      "to": "永寧"
+    },
+    {
+      "line": "BL",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            192,
+            844
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            192,
+            878
+          ]
+        }
+      ],
+      "from": "永寧",
+      "to": "頂埔"
+    },
+    {
+      "line": "RA",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            297,
+            156
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            320,
+            132
+          ]
+        }
+      ],
+      "from": "北投",
+      "to": "新北投"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            158,
+            16
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            180,
+            40
+          ]
+        }
+      ],
+      "from": "淡水",
+      "to": "紅樹林"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            180,
+            40
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            204,
+            62
+          ]
+        }
+      ],
+      "from": "紅樹林",
+      "to": "竹圍"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            204,
+            62
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            227,
+            86
+          ]
+        }
+      ],
+      "from": "竹圍",
+      "to": "關渡"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            227,
+            86
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            250,
+            109
+          ]
+        }
+      ],
+      "from": "關渡",
+      "to": "忠義"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            250,
+            109
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            274,
+            132
+          ]
+        }
+      ],
+      "from": "忠義",
+      "to": "復興崗"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            274,
+            132
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            297,
+            156
+          ]
+        }
+      ],
+      "from": "復興崗",
+      "to": "北投"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            297,
+            156
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            320,
+            179
+          ]
+        }
+      ],
+      "from": "北投",
+      "to": "奇岩"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            320,
+            179
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            343,
+            202
+          ]
+        }
+      ],
+      "from": "奇岩",
+      "to": "唭哩岸"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            343,
+            202
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            366,
+            226
+          ]
+        }
+      ],
+      "from": "唭哩岸",
+      "to": "石牌"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            366,
+            226
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            255
+          ]
+        }
+      ],
+      "from": "石牌",
+      "to": "明德"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            255
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            284
+          ]
+        }
+      ],
+      "from": "明德",
+      "to": "芝山"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            284
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            314
+          ]
+        }
+      ],
+      "from": "芝山",
+      "to": "士林"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            314
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            343
+          ]
+        }
+      ],
+      "from": "士林",
+      "to": "劍潭"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            343
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            373
+          ]
+        }
+      ],
+      "from": "劍潭",
+      "to": "圓山"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            373
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            402
+          ]
+        }
+      ],
+      "from": "圓山",
+      "to": "民權西路"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            402
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            434
+          ]
+        }
+      ],
+      "from": "民權西路",
+      "to": "雙連"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            434
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            464
+          ]
+        }
+      ],
+      "from": "雙連",
+      "to": "中山"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            525
+          ]
+        }
+      ],
+      "from": "中山",
+      "to": "台北車站"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            556
+          ]
+        }
+      ],
+      "from": "台北車站",
+      "to": "台大醫院"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            556
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            586
+          ]
+        }
+      ],
+      "from": "台大醫院",
+      "to": "中正紀念堂"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            586
+          ]
+        }
+      ],
+      "from": "中正紀念堂",
+      "to": "東門"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            472,
+            586
+          ]
+        }
+      ],
+      "from": "東門",
+      "to": "大安森林公園"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            472,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            586
+          ]
+        }
+      ],
+      "from": "大安森林公園",
+      "to": "大安"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            538,
+            586
+          ]
+        }
+      ],
+      "from": "大安",
+      "to": "信義安和"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            538,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            572,
+            586
+          ]
+        }
+      ],
+      "from": "信義安和",
+      "to": "台北101/世貿"
+    },
+    {
+      "line": "R",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            572,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            606,
+            586
+          ]
+        }
+      ],
+      "from": "台北101/世貿",
+      "to": "象山"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            165,
+            296
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            187,
+            318
+          ]
+        }
+      ],
+      "from": "蘆洲",
+      "to": "三民高中"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            187,
+            318
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            209,
+            340
+          ]
+        }
+      ],
+      "from": "三民高中",
+      "to": "徐匯中學"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            209,
+            340
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            232,
+            362
+          ]
+        }
+      ],
+      "from": "徐匯中學",
+      "to": "三和國中"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            232,
+            362
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            253,
+            384
+          ]
+        }
+      ],
+      "from": "三和國中",
+      "to": "三重國小"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            253,
+            384
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            266,
+            402,
+            273,
+            402
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            318,
+            402
+          ]
+        }
+      ],
+      "from": "三重國小",
+      "to": "大橋頭"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            70,
+            604
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            93,
+            581
+          ]
+        }
+      ],
+      "from": "迴龍",
+      "to": "丹鳳"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            93,
+            581
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            116,
+            558
+          ]
+        }
+      ],
+      "from": "丹鳳",
+      "to": "輔大"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            116,
+            558
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            139,
+            535
+          ]
+        }
+      ],
+      "from": "輔大",
+      "to": "新莊"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            139,
+            535
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            162,
+            512
+          ]
+        }
+      ],
+      "from": "新莊",
+      "to": "頭前庄"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            162,
+            512
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            184,
+            489
+          ]
+        }
+      ],
+      "from": "頭前庄",
+      "to": "先嗇宮"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            184,
+            489
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            208,
+            466
+          ]
+        }
+      ],
+      "from": "先嗇宮",
+      "to": "三重"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            208,
+            466
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            230,
+            444
+          ]
+        }
+      ],
+      "from": "三重",
+      "to": "菜寮"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            230,
+            444
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            253,
+            420
+          ]
+        }
+      ],
+      "from": "菜寮",
+      "to": "台北橋"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            253,
+            420
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            266,
+            402,
+            273,
+            402
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            318,
+            402
+          ]
+        }
+      ],
+      "from": "台北橋",
+      "to": "大橋頭"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            318,
+            402
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            402
+          ]
+        }
+      ],
+      "from": "大橋頭",
+      "to": "民權西路"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            402
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            409,
+            402
+          ]
+        }
+      ],
+      "from": "民權西路",
+      "to": "中山國小"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            409,
+            402
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            440,
+            402,
+            440,
+            434
+          ]
+        }
+      ],
+      "from": "中山國小",
+      "to": "行天宮"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            434
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            464
+          ]
+        }
+      ],
+      "from": "行天宮",
+      "to": "松江南京"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            525
+          ]
+        }
+      ],
+      "from": "松江南京",
+      "to": "忠孝新生"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            525
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            586
+          ]
+        }
+      ],
+      "from": "忠孝新生",
+      "to": "東門"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            410,
+            618
+          ]
+        }
+      ],
+      "from": "東門",
+      "to": "古亭"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            410,
+            618
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            353,
+            680
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            344,
+            693,
+            344,
+            706
+          ]
+        }
+      ],
+      "from": "古亭",
+      "to": "頂溪"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            344,
+            706
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            344,
+            740
+          ]
+        }
+      ],
+      "from": "頂溪",
+      "to": "永安市場"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            344,
+            740
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            344,
+            775
+          ]
+        }
+      ],
+      "from": "永安市場",
+      "to": "景安"
+    },
+    {
+      "line": "O",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            344,
+            775
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            344,
+            809
+          ]
+        }
+      ],
+      "from": "景安",
+      "to": "南勢角"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            635,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            590,
+            464
+          ]
+        }
+      ],
+      "from": "松山",
+      "to": "南京三民"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            590,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            546,
+            464
+          ]
+        }
+      ],
+      "from": "南京三民",
+      "to": "台北小巨蛋"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            546,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            503,
+            464
+          ]
+        }
+      ],
+      "from": "台北小巨蛋",
+      "to": "南京復興"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            503,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            440,
+            464
+          ]
+        }
+      ],
+      "from": "南京復興",
+      "to": "松江南京"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            440,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            464
+          ]
+        }
+      ],
+      "from": "松江南京",
+      "to": "中山"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            464
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            333,
+            464
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            316,
+            464,
+            316,
+            483
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            316,
+            495
+          ]
+        }
+      ],
+      "from": "中山",
+      "to": "北門"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            316,
+            495
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            316,
+            557
+          ]
+        }
+      ],
+      "from": "北門",
+      "to": "西門"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            316,
+            557
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            316,
+            586,
+            340,
+            586
+          ]
+        }
+      ],
+      "from": "西門",
+      "to": "小南門"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            340,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            378,
+            586
+          ]
+        }
+      ],
+      "from": "小南門",
+      "to": "中正紀念堂"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            378,
+            586
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            410,
+            618
+          ]
+        }
+      ],
+      "from": "中正紀念堂",
+      "to": "古亭"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            410,
+            618
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            433,
+            642
+          ]
+        }
+      ],
+      "from": "古亭",
+      "to": "台電大樓"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            433,
+            642
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            460,
+            668
+          ]
+        }
+      ],
+      "from": "台電大樓",
+      "to": "公館"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            460,
+            668
+          ]
+        },
+        {
+          "command": "Q",
+          "coordinates": [
+            476,
+            686,
+            476,
+            706
+          ]
+        }
+      ],
+      "from": "公館",
+      "to": "萬隆"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            706
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            476,
+            740
+          ]
+        }
+      ],
+      "from": "萬隆",
+      "to": "景美"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            740
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            476,
+            775
+          ]
+        }
+      ],
+      "from": "景美",
+      "to": "大坪林"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            775
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            476,
+            809
+          ]
+        }
+      ],
+      "from": "大坪林",
+      "to": "七張"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            809
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            476,
+            843
+          ]
+        }
+      ],
+      "from": "七張",
+      "to": "新店區公所"
+    },
+    {
+      "line": "G",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            843
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            476,
+            878
+          ]
+        }
+      ],
+      "from": "新店區公所",
+      "to": "新店"
+    },
+    {
+      "line": "GA",
+      "path": [
+        {
+          "command": "M",
+          "coordinates": [
+            476,
+            809
+          ]
+        },
+        {
+          "command": "L",
+          "coordinates": [
+            443,
+            809
+          ]
+        }
+      ],
+      "from": "七張",
+      "to": "小碧潭"
+    }
+  ],
+  "stationId": {
+    "新店": 0,
+    "忠孝敦化": 1,
+    "小南門": 2,
+    "南勢角": 3,
+    "動物園": 4,
+    "景安": 5,
+    "松江南京": 6,
+    "永春": 7,
+    "先嗇宮": 8,
+    "三重國小": 9,
+    "徐匯中學": 10,
+    "江子翠": 11,
+    "七張": 12,
+    "輔大": 13,
+    "台北橋": 14,
+    "東門": 15,
+    "東湖": 16,
+    "國父紀念館": 17,
+    "迴龍": 18,
+    "紅樹林": 19,
+    "唭哩岸": 20,
+    "永安市場": 21,
+    "南港軟體園區": 22,
+    "三和國中": 23,
+    "市政府": 24,
+    "頂溪": 25,
+    "大坪林": 26,
+    "善導寺": 27,
+    "松山": 28,
+    "景美": 29,
+    "忠義": 30,
+    "後山埤": 31,
+    "新埔": 32,
+    "南港": 33,
+    "頂埔": 34,
+    "大橋頭": 35,
+    "龍山寺": 36,
+    "萬隆": 37,
+    "台北小巨蛋": 38,
+    "復興崗": 39,
+    "科技大樓": 40,
+    "南京三民": 41,
+    "菜寮": 42,
+    "新莊": 43,
+    "大湖公園": 44,
+    "文德": 45,
+    "新店區公所": 46,
+    "大安": 47,
+    "頭前庄": 48,
+    "北門": 49,
+    "台電大樓": 50,
+    "西湖": 51,
+    "內湖": 52,
+    "辛亥": 53,
+    "劍南路": 54,
+    "港墘": 55,
+    "新北投": 56,
+    "圓山": 57,
+    "淡水": 58,
+    "土城": 59,
+    "中山國小": 60,
+    "中山國中": 61,
+    "海山": 62,
+    "信義安和": 63,
+    "芝山": 64,
+    "士林": 65,
+    "行天宮": 66,
+    "奇岩": 67,
+    "關渡": 68,
+    "雙連": 69,
+    "三民高中": 70,
+    "竹圍": 71,
+    "石牌": 72,
+    "大直": 73,
+    "松山機場": 74,
+    "木柵": 75,
+    "丹鳳": 76,
+    "南港展覽館": 77,
+    "古亭": 78,
+    "劍潭": 79,
+    "昆陽": 80,
+    "象山": 81,
+    "明德": 82,
+    "亞東醫院": 83,
+    "永寧": 84,
+    "台大醫院": 85,
+    "三重": 86,
+    "府中": 87,
+    "小碧潭": 88,
+    "萬芳醫院": 89,
+    "六張犁": 90,
+    "麟光": 91,
+    "萬芳社區": 92,
+    "葫洲": 93,
+    "大安森林公園": 94,
+    "台北101/世貿": 95,
+    "板橋": 96,
+    "公館": 97,
+    "北投": 98,
+    "忠孝新生": 99,
+    "台北車站": 100,
+    "蘆洲": 101,
+    "中山": 102,
+    "南京復興": 103,
+    "中正紀念堂": 104,
+    "西門": 105,
+    "民權西路": 106,
+    "忠孝復興": 107
+  },
+  "author": "Li-Wei Wang"
+}

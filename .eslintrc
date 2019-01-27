@@ -1,0 +1,14 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": ["eslint:recommended", "airbnb-base", "plugin:react/recommended"],
+  "rules": {
+    "no-else-return": ["error", { "allowElseIf": true }],
+    "operator-linebreak": ["error", "after"],
+    "comma-dangle": ["error", "never"],
+    "react/jsx-uses-vars": 2
+  }
+}
