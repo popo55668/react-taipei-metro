@@ -4,7 +4,7 @@ import MetroStation from './MetroStation';
 import MetroData from './data.json';
 import './style.css';
 
-class MetroContainer extends React.Component {
+class MetroMap extends React.Component {
   constructor(props) {
     super(props);
     this.lineColorMap = {
@@ -127,7 +127,7 @@ class MetroContainer extends React.Component {
   }
 }
 
-MetroContainer.propTypes = {
+MetroMap.propTypes = {
   width: PropTypes.number,
   height: PropTypes.number,
   bgColor: PropTypes.string,
@@ -142,7 +142,7 @@ MetroContainer.propTypes = {
   ])
 };
 
-MetroContainer.defaultProps = {
+MetroMap.defaultProps = {
   width: 800,
   height: 900,
   bgColor: 'white',
@@ -156,4 +156,4 @@ MetroContainer.defaultProps = {
   renderUserData: () => ''
 };
 
-export default MetroContainer;
+export default MetroMap;
