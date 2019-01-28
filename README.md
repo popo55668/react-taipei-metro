@@ -14,11 +14,6 @@ import ReactDOM from 'react-dom';
 import MetroMap from 'react-taipei-metro';
 
 class Window extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { width: window.innerWidth, height: window.innerHeight };
-  }
-
   // Customized overlay when mouse hovers over the station.
   renderOverlay(station) {
     // Return a Promise if you fetch data with asynchronous methods.
@@ -43,12 +38,6 @@ class Window extends React.Component {
       showStationName={true} showOverlay={true}
       renderOverlay={station => this.renderOverlay(station)}
       renderUserData={(station, i, scale) => this.renderCustomizedContent(station, i, scale)} />);
-  }
-
-  componentDidMount() {
-    window.addEventListener('resize', () => {
-      this.setState({ width: window.innerWidth, height: window.innerHeight });
-    });
   }
 }
 
