@@ -29,7 +29,7 @@ class Window extends React.Component {
   renderCustomizedContent(station, i, scale) {
     return (<text key={i} x={station.center.x} y={station.center.y}
         fontSize={10 * scale} fill={this.textColor} fontWeight='bold'
-        alignmentBaseline='middle' textAnchor='middle'>{station.name.en.length}</text>);
+        dominantBaseline='middle' textAnchor='middle'>{station.name.en.length}</text>);
   }
 
   toggleUserData(e) {

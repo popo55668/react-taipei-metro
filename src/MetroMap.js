@@ -90,7 +90,7 @@ class MetroMap extends React.Component {
       stationNames = this.metroData.stations.map((station, i) => (
         <text key={i} x={station.name.pos.x * this.scale} y={station.name.pos.y * this.scale}
           style={this.props.textStyle}
-          alignmentBaseline='middle' textAnchor={station.name.pos.anchor}>{station.name.zh}</text>));
+          dominantBaseline='middle' textAnchor={station.name.pos.anchor}>{station.name.zh}</text>));
     }
 
     // Customized Data Rendering
