@@ -59,6 +59,29 @@ ReactDOM.render(
 ```
 
 # Props
+| Name           | Description                                                 | Type                                                                 | Required | Default           |
+|----------------|-------------------------------------------------------------|----------------------------------------------------------------------|----------|-------------------|
+| width          | Width of component(px)                                      |                                number                                |     x    | 800               |
+| height         | Height of component (px)                                    |                                number                                |     x    | 900               |
+| bgColor        | Background color of component                               |                                string                                |     x    | white             |
+| textStyle      | Style of svg text element                                   |                                object                                |     x    | { fill: 'black' } |
+| showText       | Whether to show station name                                |                                 bool                                 |     x    | true              |
+| showOverlay    | Whether to show station overlay                             |                                 bool                                 |     x    | true              |
+| showUserData   | Whether to show user data                                   |                                 bool                                 |     x    | true              |
+| renderOverlay  | Function for rendering overlay when mouse hovers a station  |                    func: station => Promise or JSX                   |     x    | -                 |
+| renderUserData | Function(s) for rendering user  content for each station    | func: (station, i, scale) => JSX or array<func: (station, i, scale)> |     x    | -                 |
+
+### Function arguments
+- station
+```js
+{
+  name: { en: 'Yuanshan', zh: '圓山' },
+  center: { x: 365, y: 373 },
+  lines: ['R']
+}
+```
+- i: station index
+- scale: ``` min(props.width / 800, props.height / 900) ```
 
 # Build
 ``` js
