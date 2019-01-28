@@ -14,7 +14,7 @@
   position: absolute;
   display: block;
   background: gray;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 @-webkit-keyframes spin {

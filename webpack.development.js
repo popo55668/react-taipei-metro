@@ -1,15 +1,15 @@
 const path = require('path');
 
 module.exports = {
-  entry: './index.js',
+  entry: './docs/index.js',
   output: {
-    path: path.resolve('dist'),
+    path: path.resolve('docs/dist'),
     filename: 'bundle.js'
   },
   mode: 'development',
   devServer: {
     hot: false,
-    contentBase: path.join(__dirname, ''),
+    contentBase: path.join(__dirname, 'docs'),
     publicPath: '/dist',
     stats: { colors: true }
   },
