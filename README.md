@@ -1,6 +1,7 @@
 # react-taipei-metro
 Extensible React Component for Taipei Metro Map.
 
+See the demo [here](https://popo55668.github.io/react-taipei-metro).
 ## Install
 ``` js
 npm install react-taipei-metro
@@ -35,6 +36,7 @@ class Window extends React.Component {
         alignmentBaseline='middle' textAnchor='middle'>{station.name.en.length}</text>);
   }
 
+  // See Props for more details.
   render() {
     return (<MetroMap
       width={800} height={900}
@@ -54,4 +56,11 @@ ReactDOM.render(
   <Window />,
   document.getElementById('root')
 );
+```
+
+# Props
+
+# Build
+``` js
+npm run build
 ```
