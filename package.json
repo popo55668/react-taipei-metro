@@ -11,13 +11,13 @@
   ],
   "scripts": {
     "build": "NODE_ENV=production webpack",
-    "dev": "NODE_ENV=development webpack-dev-server --open",
+    "dev": "NODE_ENV=development webpack-dev-server --open --host 0.0.0.0",
     "build:demo": "NODE_ENV=development webpack",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",

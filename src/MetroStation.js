@@ -12,8 +12,9 @@ class MetroStation extends React.Component {
     if (this.props.lineColors.length === 1) {
       return (<circle style={style}
         cx={cx} cy={cy} r={r}
-        onMouseOver={this.props.onMouseOver}
-        onMouseLeave={this.props.onMouseLeave}></circle>);
+        onMouseEnter={this.props.onMouseEnterStation}
+        onMouseLeave={this.props.onMouseLeaveStation}
+        onClick={this.props.onClickStation}></circle>);
     }
 
     if (this.props.lineColors.length === 2) {
@@ -29,8 +30,9 @@ class MetroStation extends React.Component {
           <path d={d2} style={pathStyle} stroke={this.props.lineColors[1]}></path>
           <circle style={style}
             cx={cx} cy={cy} r={r}
-            onMouseOver={this.props.onMouseOver}
-            onMouseLeave={this.props.onMouseLeave}>
+            onMouseEnter={this.props.onMouseEnterStation}
+            onMouseLeave={this.props.onMouseLeaveStation}
+            onClick={this.props.onClickStation}>
           </circle>
         </g>
       );
@@ -48,8 +50,9 @@ MetroStation.propTypes = {
   strokeWidth: PropTypes.number,
   fill: PropTypes.string,
   lineColors: PropTypes.array,
-  onMouseOver: PropTypes.func,
-  onMouseLeave: PropTypes.func
+  onMouseEnterStation: PropTypes.func,
+  onMouseLeaveStation: PropTypes.func,
+  onClickStation: PropTypes.func
 };
 
 export default MetroStation;
