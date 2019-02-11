@@ -1,7 +1,7 @@
 # react-taipei-metro
-Extensible React Component for SVG Taipei Metro Map. The design is mostly referenced from the [post](https://medium.com/wumanru/2018-taipei-metro-rent-map-1ac22ae18fd7) and with some minor modifications.
+Extensible React Component for SVG Taipei Metro Map. The design is mostly referenced from  [曼努 manzoo](https://medium.com/@manzoo) and the [post](https://medium.com/wumanru/2018-taipei-metro-rent-map-1ac22ae18fd7) with some minor modifications.
 
-See the demo [here](https://popo55668.github.io/react-taipei-metro).
+See the demo [here](https://rent.popoke.info/).
 ## Install
 ``` js
 npm install react-taipei-metro
